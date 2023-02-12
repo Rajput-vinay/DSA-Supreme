@@ -7,3 +7,8 @@
 //  Reverse an Integer
 // //  set ith bit
 //  convert celsius to fahrenheit 
+// Given a number N, the task is to write a C program to print all digits of the number N in their original order.
+// enter n number of digits and form a number using these digits
+//  print number of set bit
+//  print binary equivalent of a Decimal No.
+// convert distance in Km into miles
