@@ -1,5 +1,5 @@
 # DSA-Supreme
 
-i have covered all most all important problem of DSA
+i have covered almost all important problem of DSA
 
 
